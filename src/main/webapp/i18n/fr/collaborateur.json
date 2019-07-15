@@ -1,0 +1,26 @@
+{
+  "collabApp": {
+    "collaborateur": {
+      "home": {
+        "title": "Collaborateurs",
+        "createLabel": "Créer un nouveau Collaborateur",
+        "createOrEditLabel": "Créer ou éditer un Collaborateur",
+        "notFound": "Aucun Collaborateur trouvé"
+      },
+      "created": "Un nouveau Collaborateur a été créé avec l'identifiant {{ param }}",
+      "updated": "Le Collaborateur avec l'identifiant {{ param }} a été mis à jour",
+      "deleted": "Le Collaborateur avec l'identifiant {{ param }} a été supprimé",
+      "delete": {
+        "question": "Etes-vous certain de vouloir supprimer le Collaborateur {{ id }} ?"
+      },
+      "detail": {
+        "title": "Collaborateur"
+      },
+      "name": "Name",
+      "content": "Content",
+      "date": "Date",
+      "liste": "Liste",
+      "certifie": "Certifie"
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "collabApp": {
+    "certifie": {
+      "home": {
+        "title": "Certifies",
+        "createLabel": "Create a new Certifie",
+        "createOrEditLabel": "Create or edit a Certifie",
+        "notFound": "No Certifie found"
+      },
+      "created": "A new Certifie is created with identifier {{ param }}",
+      "updated": "A Certifie is updated with identifier {{ param }}",
+      "deleted": "A Certifie is deleted with identifier {{ param }}",
+      "delete": {
+        "question": "Are you sure you want to delete Certifie {{ id }}?"
+      },
+      "detail": {
+        "title": "Certifie"
+      },
+      "name": "Name"
+    }
+  }
+}

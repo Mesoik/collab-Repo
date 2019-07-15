@@ -1,0 +1,26 @@
+{
+  "collabApp": {
+    "collaborateur": {
+      "home": {
+        "title": "Collaborateurs",
+        "createLabel": "Create a new Collaborateur",
+        "createOrEditLabel": "Create or edit a Collaborateur",
+        "notFound": "No Collaborateur found"
+      },
+      "created": "A new Collaborateur is created with identifier {{ param }}",
+      "updated": "A Collaborateur is updated with identifier {{ param }}",
+      "deleted": "A Collaborateur is deleted with identifier {{ param }}",
+      "delete": {
+        "question": "Are you sure you want to delete Collaborateur {{ id }}?"
+      },
+      "detail": {
+        "title": "Collaborateur"
+      },
+      "name": "Name",
+      "content": "Content",
+      "date": "Date",
+      "liste": "Liste",
+      "certifie": "Certifie"
+    }
+  }
+}
