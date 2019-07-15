@@ -1,0 +1,22 @@
+{
+  "collabApp": {
+    "liste": {
+      "home": {
+        "title": "Listes",
+        "createLabel": "Create a new Liste",
+        "createOrEditLabel": "Create or edit a Liste",
+        "notFound": "No Liste found"
+      },
+      "created": "A new Liste is created with identifier {{ param }}",
+      "updated": "A Liste is updated with identifier {{ param }}",
+      "deleted": "A Liste is deleted with identifier {{ param }}",
+      "delete": {
+        "question": "Are you sure you want to delete Liste {{ id }}?"
+      },
+      "detail": {
+        "title": "Liste"
+      },
+      "name": "Name"
+    }
+  }
+}
