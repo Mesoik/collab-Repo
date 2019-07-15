@@ -1,0 +1,19 @@
+entity Liste {
+	name String required minlength(2)
+}
+
+entity Collaborateur {
+	name String required,
+    content TextBlob required,
+    date Instant required
+}
+
+entity Certifie {
+	name String required minlength(2)
+}
+
+relationship ManyToOne {
+    Collaborateur{liste(name)} to Liste,
+    Collaborateur{certifie(name)} to Certifie
+}
+
